@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+# Module06 Website
+---
+[Google Homepage](https://www.google.com "Google's Homepage")
 
-You can use the [editor on GitHub](https://github.com/Blue-Blazes/IntroToProg-Python-Mod06/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Assignment 06]
+
+[GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
