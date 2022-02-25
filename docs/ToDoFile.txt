@@ -1,0 +1,3 @@
+clean kitchen,low
+vacuum carpet,high
+take out trash,highest
